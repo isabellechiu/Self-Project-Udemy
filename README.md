@@ -47,3 +47,7 @@ Experimental Design and A/B Tests
 Feature Engineering
 
 Hyperparameter Tuning
+
+### NOTE
+Variance: measure how "spread out" the data is
+Standard Deviation: to identify the outliers
