@@ -50,4 +50,8 @@ Hyperparameter Tuning
 
 ### NOTE
 Variance: measure how "spread out" the data is
+
 Standard Deviation: to identify the outliers
+
+Correlation: 0 no correlation
+Correlation: 1 perfect correlation
